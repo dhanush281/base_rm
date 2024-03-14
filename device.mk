@@ -382,8 +382,8 @@ PRODUCT_PACKAGES += \
     libvndfwk_detect_jni.qti.vendor
 
 # RemovePackages
-PRODUCT_PACKAGES += \
-    removepackages
+#PRODUCT_PACKAGES += \
+#    removepackages
 
 # RIL
 PRODUCT_PACKAGES += \
